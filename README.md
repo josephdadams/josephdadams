@@ -25,7 +25,7 @@ Over the past 20+ years, I’ve built a career bridging **live production** and 
 
 - 🧱 **[ScreenDeck](https://github.com/josephdadams/screendeck)** – Custom virtual surfaces for Companion with multi-deck profiles and hotkeys
 - 🔴 **[Tally Arbiter](https://github.com/josephdadams/tallyarbiter)** – Universal, networked tally light controller for any production setup
-- 🎮 **[pamepad‑io](https://github.com/josephdadams/gamepad-io)** – Use any game controller as a Bitfocus Companion surface
+- 🎮 **[gamepad‑io](https://github.com/josephdadams/gamepad-io)** – Use any game controller as a Bitfocus Companion surface
 - 🚀 **[ScriptLauncher](https://github.com/josephdadams/scriptlauncher)** – Helper app for launching scripts and controlling your computer remotely, via REST & sockets
 
 ---
