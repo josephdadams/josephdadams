@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-josephadams.dev-0A0A0A?style=flat-square&logo=Google-Chrome)](https://josephadams.dev)
 [![Blog](https://img.shields.io/badge/Blog-techministry.blog-0A0A0A?style=flat-square&logo=Blogger)](https://www.techministry.blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josephdadams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseph-adams-29b1147)
 [![GitHub Followers](https://img.shields.io/github/followers/josephdadams?style=flat-square)](https://github.com/josephdadams)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgray?style=flat-square&logo=GitHub)](https://github.com/sponsors/josephdadams)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat-square&logo=paypal)](https://www.paypal.me/adamsfamilyadopts)
