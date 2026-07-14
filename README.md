@@ -32,7 +32,7 @@ Over the past 20+ years, I’ve built a career bridging **live production** and 
 
 ## 🧠 Open‑Source Focus
 
-I'm a core contributor to **B[itfocus Companion](https://github.com/bitfocus/companion)**, with over 100 modules authored or maintained.
+I'm a core contributor to **[Bitfocus Companion](https://github.com/bitfocus/companion)**, with over 100 modules authored or maintained.
 
 I also build standalone tools and integrations that connect systems across the broadcast, worship, and tech spaces.
 
